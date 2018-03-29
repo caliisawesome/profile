@@ -1,7 +1,7 @@
- body {
-    background: url("https://shadowofvesuvius.files.wordpress.com/2012/12/photo2.jpg");
+body {
+    background: url("http://www.salvatore-esposito.com/wp-content/uploads/2017/11/gomm.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: fixed
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     color: #fffff;
