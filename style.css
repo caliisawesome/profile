@@ -1,0 +1,27 @@
+body {
+    background: url("https://shadowofvesuvius.files.wordpress.com/2012/12/photo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #fffff;
+    font-size: 15px;
+    line-height: 1.6em;
+    text-align: center
+}
+
+div{
+  background: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  border-radius: 7px
+  box-shadow:2px 3px 3px white;
+}
+
+/*i need to change the font on tiop*/
+
+/*create a cool button*/
+
+/*facebook and Twitter buttons*/
+
+
+
